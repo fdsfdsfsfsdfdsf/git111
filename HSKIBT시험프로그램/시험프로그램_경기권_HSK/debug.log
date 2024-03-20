@@ -1,0 +1,46 @@
+[1117/194003.099:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1117/194003.224:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1117/194003.229:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1117/194003.237:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[1118/074304.842:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1118/074304.948:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1118/074304.951:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1118/074304.960:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[1118/121356.978:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1118/121357.152:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1118/121357.156:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1118/121357.166:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[1201/183105.145:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1201/183105.296:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1201/183105.306:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1201/183105.307:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[1201/183123.045:ERROR:audio_manager_base.cc(368)] Invalid audio output parameters received; using fake audio path. Channels: 0, Sample Rate: 0, Bits Per Sample: 0, Frames Per Buffer: 0
+[1203/082227.654:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1203/082227.709:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1203/082227.713:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1203/082227.717:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[1203/112946.715:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1203/112946.804:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[1203/112946.813:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1203/112946.819:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[0112/190855.242:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[0112/190855.297:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[0112/190855.300:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0112/190855.301:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[0113/080427.260:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[0113/080427.312:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[0113/080427.315:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0113/080427.320:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[0202/194435.755:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[0202/194435.816:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[0202/194435.820:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0202/194435.821:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[0202/194451.865:ERROR:audio_manager_base.cc(368)] Invalid audio output parameters received; using fake audio path. Channels: 0, Sample Rate: 0, Bits Per Sample: 0, Frames Per Buffer: 0
+[0204/082202.371:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[0204/082202.435:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[0204/082202.439:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0204/082202.446:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[0204/115437.800:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[0204/115437.859:ERROR:viz_main_impl.cc(195)] Exiting GPU process due to errors during initialization
+[0204/115437.864:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0204/115437.873:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.

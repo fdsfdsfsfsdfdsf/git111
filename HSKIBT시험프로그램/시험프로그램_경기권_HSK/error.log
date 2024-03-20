@@ -1,0 +1,66 @@
+
+[2023-11-17 19:54:24] Traceback (most recent call last):
+  File "v8function_handler.pyx", line 48, in cefpython_py34.V8FunctionHandler_Execute
+  File "JavaScriptManager.py", line 153, in py_exit
+SystemExit: 0
+
+
+[2023-11-18 11:47:01] Traceback (most recent call last):
+  File "v8function_handler.pyx", line 48, in cefpython_py34.V8FunctionHandler_Execute
+  File "JavaScriptManager.py", line 153, in py_exit
+SystemExit: 0
+
+
+[2023-11-18 16:02:02] Traceback (most recent call last):
+  File "v8function_handler.pyx", line 48, in cefpython_py34.V8FunctionHandler_Execute
+  File "JavaScriptManager.py", line 153, in py_exit
+SystemExit: 0
+
+
+[2023-12-01 18:52:57] Traceback (most recent call last):
+  File "v8function_handler.pyx", line 48, in cefpython_py34.V8FunctionHandler_Execute
+  File "JavaScriptManager.py", line 153, in py_exit
+SystemExit: 0
+
+
+[2023-12-03 11:12:02] Traceback (most recent call last):
+  File "v8function_handler.pyx", line 48, in cefpython_py34.V8FunctionHandler_Execute
+  File "JavaScriptManager.py", line 153, in py_exit
+SystemExit: 0
+
+
+[2023-12-03 16:02:01] Traceback (most recent call last):
+  File "v8function_handler.pyx", line 48, in cefpython_py34.V8FunctionHandler_Execute
+  File "JavaScriptManager.py", line 153, in py_exit
+SystemExit: 0
+
+
+[2024-01-12 19:26:15] Traceback (most recent call last):
+  File "v8function_handler.pyx", line 48, in cefpython_py34.V8FunctionHandler_Execute
+  File "JavaScriptManager.py", line 153, in py_exit
+SystemExit: 0
+
+
+[2024-01-13 11:47:01] Traceback (most recent call last):
+  File "v8function_handler.pyx", line 48, in cefpython_py34.V8FunctionHandler_Execute
+  File "JavaScriptManager.py", line 153, in py_exit
+SystemExit: 0
+
+
+[2024-02-02 20:02:15] Traceback (most recent call last):
+  File "v8function_handler.pyx", line 48, in cefpython_py34.V8FunctionHandler_Execute
+  File "JavaScriptManager.py", line 153, in py_exit
+SystemExit: 0
+
+
+[2024-02-04 11:12:02] Traceback (most recent call last):
+  File "v8function_handler.pyx", line 48, in cefpython_py34.V8FunctionHandler_Execute
+  File "JavaScriptManager.py", line 153, in py_exit
+SystemExit: 0
+
+
+[2024-02-04 16:02:02] Traceback (most recent call last):
+  File "v8function_handler.pyx", line 48, in cefpython_py34.V8FunctionHandler_Execute
+  File "JavaScriptManager.py", line 153, in py_exit
+SystemExit: 0
+
